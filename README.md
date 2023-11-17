@@ -1,6 +1,6 @@
 # navigation_bar
 
-A new Flutter project.
+A new Flutter 3.10 project.
 
 ## Getting Started
 
